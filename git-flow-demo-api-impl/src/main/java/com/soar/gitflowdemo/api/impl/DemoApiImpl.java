@@ -9,4 +9,9 @@ import com.soar.gitflowdemo.api.DemoApi;
  * @since 4/9/2019
  **/
 public class DemoApiImpl implements DemoApi {
+
+    @Override
+    public void first() {
+        System.out.println("first");
+    }
 }

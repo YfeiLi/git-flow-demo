@@ -7,4 +7,6 @@ package com.soar.gitflowdemo.api;
  * @since 4/9/2019
  **/
 public interface DemoApi {
+
+    void first();
 }
