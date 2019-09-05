@@ -6,7 +6,6 @@
         <groupId>com.soar</groupId>
         <artifactId>git-flow-demo</artifactId>
         <version>0.1-SNAPSHOT</version>
-        <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <artifactId>git-flow-demo-api-impl</artifactId>
     <name>git-flow-demo-api-impl</name>
