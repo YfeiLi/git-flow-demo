@@ -14,12 +14,10 @@
     <name>git-flow-demo</name>
     <description>Git Flow Demo</description>
 
-    <scm>
-        <url>https://github.com/YfeiLi/git-flow-demo</url>
-        <connection>git@github.com:YfeiLi/git-flow-demo.git</connection>
-        <developerConnection>git@github.com:YfeiLi/git-flow-demo.git</developerConnection>
-        <tag>HEAD</tag>
-    </scm>
+    <modules>
+        <module>git-flow-demo-api</module>
+        <module>git-flow-demo-api-impl</module>
+    </modules>
 
     <properties>
         <java.version>11</java.version>
