@@ -1,0 +1,3 @@
+[submodule "vote"]
+	path = vote
+	url = git@github.com:YfeiLi/vote.git
